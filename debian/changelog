@@ -1,0 +1,5 @@
+golang-cli (0.0~git20131210+69f0b65c-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Sat, 25 Jan 2014 06:25:54 +0900
