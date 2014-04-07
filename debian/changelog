@@ -1,4 +1,4 @@
-golang-cli (0.0~git20131210+69f0b65c-1) unstable; urgency=low
+golang-mitchellh-cli (0.0~git20131210+69f0b65c-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)
 
